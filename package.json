@@ -1,0 +1,26 @@
+{
+  "name": "api-rest-express",
+  "version": "1.0.0",
+  "description": "Creation d'application d'API avec ExpressJs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "API",
+    "rest",
+    "rest",
+    "API",
+    "ExpressJs",
+    "Javascript"
+  ],
+  "author": "Khadim NGOM",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "sqlite3": "^5.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
